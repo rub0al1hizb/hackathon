@@ -3,9 +3,10 @@ uvicorn[standard]==0.22.0
 pydantic==1.10.8
 scikit-learn==1.6.0
 pandas
-numpy==2.3.4
+numpy
 joblib==1.2.0
 pennylane==0.28.0
 torch
 requests==2.32.5
 pytest==7.4.0
+
